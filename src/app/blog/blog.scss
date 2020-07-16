@@ -1,0 +1,12 @@
+#section-blog {
+  background: gray;
+  div.inner {
+    background-color: white;
+    div.out {
+      background-color: blue;
+    }
+  }
+  div.out {
+    background-color: red;
+  }
+}
